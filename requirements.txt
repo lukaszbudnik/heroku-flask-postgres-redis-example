@@ -1,0 +1,6 @@
+Flask==0.11.1
+psycopg2==2.6.2
+redis==2.10.5
+APScheduler==3.0.0
+gunicorn==19.6.0
+newrelic==2.68.0.50

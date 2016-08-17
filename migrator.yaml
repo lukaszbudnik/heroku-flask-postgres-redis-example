@@ -1,0 +1,5 @@
+baseDir: migrations
+driver: postgres
+dataSource: $DATABASE_URL
+singleSchemas:
+  - public
